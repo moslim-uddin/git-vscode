@@ -1,2 +1,4 @@
-Hello world this is first. I just start learning Flutter & Dard code. How to do code on VS Code.
-THis is second.
+</> dart
+void main () {
+print ('Hello world!');
+}
