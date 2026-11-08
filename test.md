@@ -1,5 +1,4 @@
 </> dart
 void main () {
-    print ('present');
-    print ('20');
+    print ('Hello world! I just start learning');
 }
