@@ -1,4 +1,4 @@
-</> dart
 void main () {
-    print ('Hello world! I just start learning');
+    print ('Hello world! This is my first learning code');
+    print ('20')
 }
