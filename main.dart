@@ -1,7 +1,18 @@
-void main () {
-    print ('hello world');
-    int a = 10;
-    int b = 30;
-
-    print (a + b);
+import 'package:flutter/material.dart';
+void main (){
+    runApp (
+        MaterialApp(
+            home: Scaffold(
+                appBar: AppBar(
+                    title: Text('My First App'),
+                ),
+                body: Center(
+                    child: Text(
+                        'Hello Flutter!',
+                        style: TextStyle(fontSize: 28),
+                    ),
+                ),
+            ),
+        ),
+    );
 }
