@@ -1,18 +1,4 @@
-import 'package:flutter/material.dart';
-void main (){
-    runApp (
-        MaterialApp(
-            home: Scaffold(
-                appBar: AppBar(
-                    title: Text('My First App'),
-                ),
-                body: Center(
-                    child: Text(
-                        'Hello Flutter!',
-                        style: TextStyle(fontSize: 28),
-                    ),
-                ),
-            ),
-        ),
-    );
+void main () {
+    String name = 'Estiaq Noor';
+    print('Employee name is: $name');
 }
