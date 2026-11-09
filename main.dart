@@ -1,4 +1,4 @@
-void name () {
+void main () {
     String name = 'Muslim';
     String city = 'Dhaka';
     String profession = 'Product Designer';
