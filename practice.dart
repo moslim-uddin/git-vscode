@@ -1,9 +1,10 @@
 void main () {
   String name = 'Estiaq Noor';
-  String age = '25';
+  int age = 25;
   String country = 'Bangladesh';
-  String Department = 'CSE';
-  Print ('Estiaq NOOR');
-  Print ('Age: 25');
-  
+  String department = 'CSE';
+  print('Name: $name');
+  print('Age: $age');
+  print('Country: $country');
+  print('Department: $department');
 }
